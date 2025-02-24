@@ -8,3 +8,4 @@ This repository will be used for accessing different files related to the course
 1. Chicken pot pie
 2. Mashed potatoes
 3. Blueberry pancake
+This meal was delicious, although maybe a bit too carb heavy.
