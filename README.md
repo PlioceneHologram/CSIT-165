@@ -1,3 +1,4 @@
+Do you want to hear about my breakfast?
 # CSIT-165
 
 Introduction to the R programming language. 
